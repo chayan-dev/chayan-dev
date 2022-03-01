@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chayan Das</h1>
-<h3 align="center">An Android developer from India</h3>
+<h3 align="center">An mobile developer from India</h3>
 <img align="right" alt="coding" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif" width="400" height="300">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chayan-dev&label=Visitors&color=2bff00&style=plastic" alt="chayan-dev" /> </p>
