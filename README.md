@@ -5,9 +5,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chayan-dev&label=Visitors&color=2bff00&style=plastic" alt="chayan-dev" /> </p>
 
 
-- 🔭 I’m currently working on [7 Minutes Workout](https://github.com/chayan-dev/7MinutesWorkout)
+- 🔭 I’m currently working on [Running Tracker](https://github.com/chayan-dev/RunningTracker)
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Coroutines**
 
 - 👯 I’m looking to collaborate on [GCECT-APP](https://github.com/ByteMonk-GCECT/GCECT-APP)
 
