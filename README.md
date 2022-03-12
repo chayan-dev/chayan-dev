@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Android, Kotlin or anything related to mobile development**
 
-- 📫 How to reach me **chayandas0308@gmail.com**
+- 📫 How to reach me [**chayandas0308@gmail.com**](mailto:chayandas0308@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
