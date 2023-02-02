@@ -6,8 +6,6 @@
 
 - 🔭 I’m currently working on [BlogVilla](https://github.com/chayan-dev/BlogVilla)
 
-- 🌱 I’m currently learning **Coroutines**
-
 - 👯 I’m looking to collaborate on [GCECT-APP](https://github.com/ByteMonk-GCECT/GCECT-APP)
 
 - 💬 Ask me about **Android, Kotlin or anything related to mobile development**
