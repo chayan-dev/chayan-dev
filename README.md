@@ -4,8 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chayan-dev&label=Visitors&color=2bff00&style=plastic" alt="chayan-dev" /> </p>
 
 
-- 🔭 I’m currently working on [BlogVilla](https://github.com/chayan-dev/BlogVilla)
-
 - 👯 I’m looking to collaborate on [GCECT-APP](https://github.com/ByteMonk-GCECT/GCECT-APP)
 
 - 💬 Ask me about **Android, Kotlin or anything related to mobile development**
